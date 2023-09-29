@@ -3,8 +3,10 @@
 
 ## 编译方式
 '''
-cd build
+cd build 
+
 rm -rf *
+ 
 cmake .. && make
 '''
 
